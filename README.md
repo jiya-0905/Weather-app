@@ -1,7 +1,8 @@
 # Weather-app
-![image](https://github.com/user-attachments/assets/df12dadc-1665-4328-8ea9-f422bb0d8acd)
 Description:
 The Weather App is a simple web application that allows users to check real-time weather conditions for any city. It utilizes the WeatherAPI to fetch current temperature, weather conditions, and an icon representing the weather. Users can enter the name of a city, and the app will dynamically update with the latest weather details.
+
+![image](https://github.com/user-attachments/assets/df12dadc-1665-4328-8ea9-f422bb0d8acd)
 
 Features:
 
